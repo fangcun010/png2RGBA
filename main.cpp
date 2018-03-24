@@ -78,6 +78,7 @@ int main(int argc,char *argv[])
 
         if(!fp)
         {
+
             printf("Write File:%s Error!\n",argv[2]);
             return 1;
         }
