@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521876182 source:/home/renjie/png2RGBA/main.cpp
+	<iostream>
+	<cstring>
+	<png.h>
+
